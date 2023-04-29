@@ -6,6 +6,7 @@ A extended version of my previous mini-project of Registration and Login - Conso
 A fully dynamic website which has a connection with a database. To simulate the registration, logging in and forgot password feature.
 
 Frontend : HTML, CSS
+
 Backend  : Java
 
 The details of the database :
