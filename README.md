@@ -6,7 +6,7 @@ Implements JDBC and follows MVC Architecture built using primitive Java Web Deve
 
 A fully dynamic website which has a connection with a database. To simulate the registration, logging in and forgot password feature.
 
-The details of the database : MySQL DB
+The details of the database : MySQL DB 
 
 Structure of the database schema used :
 
