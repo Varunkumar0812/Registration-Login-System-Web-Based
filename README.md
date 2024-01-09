@@ -1,18 +1,14 @@
 # Registration and Login System - Web based Application
 
-Registration and Login - A Fullstack Java Project
-
 A extended version of my previous mini-project of Registration and Login - Console based program.
+
+Implements JDBC and follows MVC Architecture built using primitive Java Web Development Tools like JSPs and Servlets.
 
 A fully dynamic website which has a connection with a database. To simulate the registration, logging in and forgot password feature.
 
-Frontend : HTML, CSS
+The details of the database : MySQL DB
 
-Backend  : Java
-
-The details of the database :
-
-Structure of the table used :
+Structure of the database schema used :
 
 
 | username        | first_name | last_name  | password                         | recovery_email | dob        | gender |
